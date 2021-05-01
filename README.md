@@ -64,8 +64,4 @@
             57rrrL7v7v7v7v7v7v77777v7v7v77r7r7r7rv7v7v7v7v777v777v7v7v777vYri7U                 
             1QDIBQBBBQBBBBBQBBBBBBBQBBBBBQBQBQBQBQBQBQBBBQBQBQBBBBBQBBBQBQBBXQv        
 						
-						```
-<!---
-ivo-martisek-swi/ivo-martisek-swi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
